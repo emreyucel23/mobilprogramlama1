@@ -1,1 +1,0 @@
-Başta sunum olmak suretiyle bütün dosyalar sınıfta yapılacak sunumdan önce tekrardan güncellenecektir ve daha iyi hale getirilecektir.
